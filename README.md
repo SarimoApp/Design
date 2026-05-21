@@ -61,7 +61,7 @@ The goal is to create a reading experience that feels:
 ## Home
 
 <p align="center">
-  <img src="./screenshots/home2.jpg" width="60%" alt="Home Screen" />
+  <img src="./screenshots/home2.jpg" width="45%" alt="Home Screen" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ The goal is to create a reading experience that feels:
 ## Reader
 
 <p align="center">
-  <img src="./screenshots/reader.jpg" width="60%" alt="Reader Screen" />
+  <img src="./screenshots/reader.jpg" width="45%" alt="Reader Screen" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ The goal is to create a reading experience that feels:
 ## Discover
 
 <p align="center">
-  <img src="./screenshots/discover.jpg" width="60%" alt="Discover Screen" />
+  <img src="./screenshots/discover.jpg" width="45%" alt="Discover Screen" />
 </p>
 
 ---
@@ -85,7 +85,23 @@ The goal is to create a reading experience that feels:
 ## Library
 
 <p align="center">
-  <img src="./screenshots/library.jpg" width="60%" alt="Library Screen" />
+  <img src="./screenshots/library.jpg" width="45%" alt="Library Screen" />
+</p>
+
+---
+
+## Reading Mode
+
+<p align="center">
+  <img src="./screenshots/readingmode.jpg" width="45%" alt="Reading UI" />
+</p>
+
+---
+
+## Themes System
+
+<p align="center">
+  <img src="./screenshots/themes.jpg" width="60%" alt="Themes UI" />
 </p>
 
 ---
