@@ -68,9 +68,12 @@ The goal is to create a reading experience that feels:
 
 ## Reader
 
-<p align="center">
-  <img src="./screenshots/reader.jpg" width="45%" alt="Reader Screen" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="./screenshots/reader.jpg" width="100%" alt="Reader Screen" /></td>
+    <td align="center"><img src="./screenshots/reader2.jpg" width="100%" alt="Reader Screen 2" /></td>
+  </tr>
+</table>
 
 ---
 
