@@ -85,11 +85,15 @@ The goal is to create a reading experience that feels:
 
 ---
 
-## Library
+## Library & History
 
-<p align="center">
-  <img src="./screenshots/library.jpg" width="45%" alt="Library Screen" />
-</p>
+<div align="center">
+  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+    <img src="./screenshots/mylibrary.jpg" width="32%" alt="Library Screen" />
+    <img src="./screenshots/library.jpg" width="32%" alt="Library Screen 2" />
+    <img src="./screenshots/mainhistory.jpg" width="32%" alt="History Screen 3" />
+  </div>
+</div>
 
 ---
 
