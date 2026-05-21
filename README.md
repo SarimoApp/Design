@@ -7,11 +7,11 @@
 ## Preview
 
 <p align="center">
-  <img src="./assets/logo/sarimo-logo.png" width="120" alt="Sarimo Logo" />
+  <img src="./assets/logo/sarimo-logo.png" width="80" alt="Sarimo Logo" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/home.jpg" width="85%" alt="Sarimo Home UI" />
+  <img src="./screenshots/home.jpg" width="45%" alt="Sarimo Home UI" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ The goal is to create a reading experience that feels:
 ## Home
 
 <p align="center">
-  <img src="./screenshots/home2.jpg" width="90%" alt="Home Screen" />
+  <img src="./screenshots/home2.jpg" width="60%" alt="Home Screen" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ The goal is to create a reading experience that feels:
 ## Reader
 
 <p align="center">
-  <img src="./screenshots/reader.jpg" width="90%" alt="Reader Screen" />
+  <img src="./screenshots/reader.jpg" width="60%" alt="Reader Screen" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ The goal is to create a reading experience that feels:
 ## Discover
 
 <p align="center">
-  <img src="./screenshots/discover.jpg" width="90%" alt="Discover Screen" />
+  <img src="./screenshots/discover.jpg" width="60%" alt="Discover Screen" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ The goal is to create a reading experience that feels:
 ## Library
 
 <p align="center">
-  <img src="./screenshots/library.jpg" width="90%" alt="Library Screen" />
+  <img src="./screenshots/library.jpg" width="60%" alt="Library Screen" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ The goal is to create a reading experience that feels:
 ## Navigation System
 
 <p align="center">
-  <img src="./screenshots/navigation.jpg" width="90%" alt="Navigation UI" />
+  <img src="./screenshots/navigation.jpg" width="60%" alt="Navigation UI" />
 </p>
 
 ---
